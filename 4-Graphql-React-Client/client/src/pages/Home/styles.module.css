@@ -1,0 +1,42 @@
+.listcontent {
+    justify-content: center;
+    margin: 5px;
+    border: 1px solid rgb(195, 195, 195);
+    padding: 5px;
+}
+
+.description {
+    font-weight: normal;
+    line-height: 1.5715;
+    color: rgb(32, 27, 27);
+    font-size: medium;
+    text-align: left;  
+}
+
+.description:hover {
+    color: rgb(117, 117, 136);
+}
+
+.tleft {
+    color: rgb(0, 0, 0);
+    float: left;
+    line-height: 1.5715;
+    font-size: medium;
+}
+
+.trigth {
+    color: rgb(134, 134, 134);
+    float: right;
+    font-size: medium;
+}
+
+
+.text {
+    display: inline;
+    width: 100%;
+}
+
+.readorhide {
+    color: rgb(192, 192, 192);
+    cursor: pointer;
+}
