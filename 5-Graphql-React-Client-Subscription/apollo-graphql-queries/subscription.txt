@@ -1,0 +1,29 @@
+subscription subAddNewUser {
+  userCreated {
+    id
+    username
+    email
+    events {
+      id
+      title
+    }
+  }
+}
+
+subscription subAddNewEvent {
+  eventCreated {
+    id
+    title
+  }
+}
+
+subscription subAddNewParticipant {
+  participantAdded {
+    id
+    user_id
+    users {
+      id
+      username
+    }
+  }
+}
