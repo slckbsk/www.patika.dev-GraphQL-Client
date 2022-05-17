@@ -1,0 +1,50 @@
+.listcontent {
+    border: 1px solid rgb(195, 195, 195);
+    margin: 5px;
+    padding: 5px;
+}
+
+.table {
+    border: 1px solid rgb(195, 195, 195);
+    margin: 5px;
+    padding: 5px;
+}
+
+.tablemain {
+    width: 98%;
+    border: 1px solid rgb(255, 255, 255);
+    margin: 5px;
+    padding: 5px;
+}
+
+.description {
+    font-weight: normal;
+    line-height: 1.5715;
+    color: rgb(32, 27, 27);
+    font-size: medium;
+    text-align: left;
+}
+
+.description:hover {
+    color: rgb(117, 117, 136);
+}
+
+.tleft {
+    color: rgb(0, 0, 0);
+    float: left;
+    line-height: 1.5715;
+    font-size: medium;
+}
+
+.trigth {
+    color: rgb(134, 134, 134);
+    float: right;
+    text-align: center;
+    font-size: medium;
+}
+
+
+.text {
+    width: 100%;
+}
+

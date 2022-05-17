@@ -1,0 +1,37 @@
+.content {
+    justify-content: center;
+    margin: 5px;
+    border: 1px solid rgb(195, 195, 195);
+    padding: 25px;
+}
+
+.text {
+    font-weight: normal;
+    line-height: 1.5715;
+    color: rgb(32, 27, 27);
+    font-size: medium;
+    padding: 7px;
+}
+
+.textb {
+    font-weight: bold;
+    line-height: 1.5715;
+    color: rgb(32, 27, 27);
+    font-size: medium;
+    text-align: left;
+    padding: 7px;
+}
+
+.textb1 {
+    font-weight: bold;
+    line-height: 1.5715;
+    color: rgb(32, 27, 27);
+    font-size: medium;
+    display: inline-block;
+    vertical-align: top;
+    padding: 7px;
+}
+
+.button {
+    text-align: end;
+  }

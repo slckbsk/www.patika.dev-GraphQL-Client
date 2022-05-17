@@ -1,0 +1,28 @@
+.tabnav {
+  background-color: rgb(255, 255, 255);
+  margin: 4px;
+  font-weight: lighter;
+  font-size: large;
+  padding: 10px ;
+}
+
+
+.table {
+  width: 100%;
+}
+
+
+.tleft {
+  padding: 10px ;
+  width: 50%;
+}
+
+.trigth {
+  padding: 10px ;
+  width: 50%;
+}
+
+
+
+
+
